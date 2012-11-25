@@ -1,0 +1,9 @@
+BUGS:
+
+Security:
+Replace strcmp and other prospective bufferoverflow causers. 
+
+Undiserable events:
+*  SIGINT kills a background process, if any.
+
+

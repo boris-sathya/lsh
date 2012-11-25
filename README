@@ -1,0 +1,6 @@
+* lsh.c is a UNIX shell implementation in C
+
+* It supports usage of pipes, running background process and IO Redirectors.
+
+* This project is done as a course work for Operating Systems Course, lsh.c is
+built over the parser which is provided by the course administrator.
